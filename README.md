@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+Red MQTT is a MQTT Packet analys tool for Desktop and Mobile that lets you publish messages to multiple brokers or subscribe to different topics for messages  coming from  multiple brokers simultenously.The application uses .NET Framework 4.0. 
 
-You can use the [editor on GitHub](https://github.com/Biswajeeban/RedMQTT/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#System Requirements.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##Android: 
+Android 6.0 or later
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Biswajeeban/RedMQTT/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###Deesktop 
+Hardware
+	2GB RAM
+	40 GB Hard Disk Space ( It may be expanded as the data is stored. So if a lot of data is stored then disk cost may increase).
+	1024x768 resolution.
+Software
+	Windows 10 or later.
+	.Net Framework 4.0
