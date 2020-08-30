@@ -1,5 +1,5 @@
 # RedMQTT
-Red MQTT is a MQTT Packet analys tool for Desktop and Mobile that lets you publish messages to multiple brokers and subscribe to multiple topics for messages coming from multiple brokers simultenously. 
+RedMQTT is an MQTT Packet analysis utility for Desktop and Mobile. It lets you publish messages to multiple brokers and subscribe to multiple topics for messages coming from different brokers simultaneously.  It can handle a high volume of messages.
 # System Requirements
 Mobile App:
 -  Android 6.0 or later 
